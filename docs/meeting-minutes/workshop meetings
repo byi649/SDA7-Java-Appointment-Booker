@@ -1,0 +1,105 @@
+5/8/2021 Week 2 Workshop:
+
+Participants: Yihan Dong, Benjamin Yi, John McCleary
+Absent: Daniel Jiang
+
+Notes:
+1. Say hi to each other
+2. Ask Samodha(who is the tutor) for Daniel Jiang's student email to contact him/her.
+3. Ask Samodha for inviting some of us to the github class.
+4. Start the set-up setps of this project.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+12/8/2021 Week 3 Workshop:
+
+Participants: Yihan Dong, Benjamin Yi, John McCleary and Daniel Jiang
+
+Notes:
+1. Create and redesign the structure of the template document for part 1.
+2. Paste the use case diagram and the domain model on the document.
+3. Assign tasks for each member, more specifically:
+  Benjamin Yi: Vaccine Recipient use case descriptions
+  Daniel Jiang: Health Care Providers use case descriptions
+  John McCleary: Domain model writeup
+  Yihan Dong: Administrator use case descriptions and Actor form
+
+Next meeting will be on Sat(14/8), detailed time will be decided on Slack.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+19/8/2021 Week 4 Workshop:
+
+Participants: Yihan Dong, John McCleary and Daniel Jiang
+Absent: Benjamin Yi
+
+Notes:
+  1. Using Intellij ultimate version, confirmed from tutor.
+  2. Continue setting up the development environment, keep in touch on Slack especially when someone meets problems.
+  
+Next meeting time (maybe no team meeting until next workshop) will be decided on Slack.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+26/8/2021 Week 5 Workshop:
+
+Participants: Yihan Dong, John McCleary and Benjamin Yi
+Absent: Daniel Jiang
+
+Notes:
+1. Correct the part 1 document mistakes corresponding to the feedback from tutor, more specifically:
+  Yihan: Correct the mistakes in use cases description
+  John: Correct the mistakes in domain model descripion
+  Benjamin: Correct the mistakes in diagrams
+2. Decide the implementation plan on the team meeting since the time limit.
+
+Next meeting will be on Monday(30/8), detailed time will be decided on Slack.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+02/09/2021 Week 6 Workshop:
+
+Participants: Yihan Dong, John McCleary and Benjamin Yi
+Absent: Daniel Jiang
+
+Notes:
+1. Talk and modify the class diagram. It's almost finished.
+2. Upload the class diagram to the slack so when the database diagram is finished we can design the database communication classes.
+
+Next meeting will be on Monday(06/09), at 3 pm. Yihan will be absense to the meeting since he will take the first dose of vaccine.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+09/09/2021 Week 7 Workshop:
+
+Participants: Yihan Dong, John McCleary and Benjamin Yi
+Absent: Daniel Jiang
+
+Notes:
+1. Discuss the database diagram and ask tutor about the obstacles we met.
+2. Assign tasks to team members, more specifically:
+  1) Yihan will finish the skeleton of classes ASAP and continue working on the backend.
+  2) John will review the lectures and have a look if there is something need to be modified in database diagram.
+  3) Benjamin will help Yihan to design and implement the database pattern classes.
+3. Ask Daniel about the progress of frontend implementation.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+16/09/2021 Week 8 Workshop:
+
+Participants： Yihan Dong, John McCkleary and Benjamin Yi
+Absent: Daniel Jiang
+
+Notes:
+1. Benjamin finished an example of database pattern class and John will finish all the rest. Good job Benjamin!
+2. Benjamin will do some research about the front end due to the absence of Daniel.
+3. Yihan will start to finish those backend classes from the weekend.
+4. Contact the tutor and talk about the situation here. Tutor will contact Edurado and try to communicate with Daniel.
+Next meeting will be on Monday(20/09).
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+7/10/2021 Week 10 Workshop:
+
+Participants: Yihan Dong, John McCleary and Benjamin Yi
+Absent: Daniel Jiang
+
+Notes:
+1. Discuss the potential concurrency issues in the system and record them.
+2. Assign tasks to team members, more specifically:
+  1) Benjamin will check Shiro sessions and rewrite the unit of work implementation in the system.
+  2) John will write new database queries and help Benjamin about the unit of work task.
+  3) Yihan will implement Junit test for the system and build the report.
+Next meeting will be on Mon(11/10) at 3 PM.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

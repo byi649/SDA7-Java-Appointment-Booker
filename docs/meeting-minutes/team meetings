@@ -1,0 +1,117 @@
+9/8/2021 Monday 3:00pm - 3:50pm:
+
+Participants: Yihan Dong, Benjamin Yi, John McCleary
+Absent: Daniel Jiang
+Medium: Zoom
+
+Notes:
+1. Decided upon COVID-19 Vaccine Booking and Management System
+2. Created github repository
+3. Outlined use cases
+4. Outlined domain model
+
+Next meeting during workshop on Thursday (12/08)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+14/08/2021 Sat 2 pm - 2:40 pm:
+
+Participants: Yihan Dong, Benjamin Yi and Daniel Jiang.
+Absent: John McCleary
+Medium: Zoom
+
+Notes:
+1. Check each other's work on google doc, except domian diagram description.
+2. Make the checklist of assignment 1.
+3. Assign tasks to members, more specifically:
+  1) Yihan will download the google doc and format the content after ensuring that all the work is finished. Then Yihan will upload it on github.
+  2) Benjamin will create a project on his desktop/laptop and upload it on github.
+  3) Daniel will finish the development environment set-up.
+
+Next meeting will be during workshop on Thursday (19/08)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+30/08/2021 Mon 3 pm - 3:30 pm:
+
+Participants: All team members
+Medium: Zoom
+
+Notes:
+1. Create skeleton diagrams for the class diagram and the database diagram
+2. Assign tasks to members, more specifically:
+  1) Yihan will finish the class diagram.
+  2) John will finish the database diagram.
+  3) Benjamin will research where to use the different patterns required.
+  4) Daniel will research for the front-end development
+  
+Next meeting will be during workshop on Thursday (02/09)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Quick meeting minutes:
+Monday 6/9 3:00pm - 3:20pm
+Participants: Daniel Jiang, Benjamin Yi, John McCleary
+Absent: Yihan Dong
+Medium: Zoom
+Notes:
+1. Presented work on part 2 deliverables
+2. Presented feedback + direction
+3. Using React + JSON web tokens for authentication
+4. Will upload a few diagrams later once feedback has been incorporated
+5. Ask tutor about association table mappings + account inheritence
+Next meeting during workshop on Thursday
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+13/09/2021 Mon 3 PM - 3:40 PM
+Participants: Yihan Dong, Benjamin Yi and John McCleary
+Absent: Daniel Jiang
+Medium: Zoom
+
+Notes:
+1. Discuss about the confusing things that Yihan met during the construction of backend classes.
+2. Benjamin shares how to deploy application on Heroku.
+3. Briefly discuss the database patterns we will use.
+4. Prepare for the situation that in case Daniel will not attend further meetings.
+5. Yihan will modify the classes and build the interface of database pattern classes, with the help of the other two people.
+6. Ask Daniel to attend the meeting next time on slack, no reply until now (21:40, 13/09).
+Next meeting will be during workshop on Thursday (16/09)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+20/09/2021 Mon 3 PM - 3:20 PM
+Participants: Yihan Dong, Benjamin Yi and John McCleary
+Absent: Daniel Jiang
+Medium: Zoom
+
+Notes:
+1. Yihan will try to finish the document and back to codes before Wed.
+2. Benjamin will continue researching and implementing the frontend.
+3. John will finish the database classes.
+4. Ask Maria if we can extend the deadline for a few days.
+Next meeting will be held on Thurs at 3 PM
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+23/09/2021 Thurs 3PM -3:30PM
+Participants: Yihan Dong, Benjamin Yi and John McCleary
+Absent: Daniel Jiang
+Medium: Zoom
+
+Notes:
+1. Yihan has filled in all the detailed use cases and made a skeleton of the software architecture design report. He will continue drawing sequence diagrams for that report.
+2. Benjamin has finished the frontend implementation using JSP, and he will wait for further improvement of the database pattern classes. WELL DONE BENJAMIN!
+3. John has finished part of the database pattern classes and he will continue finishing them. WELL DONE JOHN!
+4. Maria has proved a few days' extension. We will both delay the checklist submission and the tag release.
+Next meeting will be held on Mon(27/09) at 3 PM
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+27/09/2021 Mon 3 PM - 4 PM
+Participants: Yihan Dong, Benjamin Yi and John McCleary
+Absent: Daniel Jiang
+Medium: Zoom
+
+Notes:
+1. Yihan has basically finished the architecture design report, the left thing is the content related to lazy load and unit of work. He will continue writing the report and
+help John to finish the backend codes if necessary. 
+2. John has finished all the database pattern classes and will modify them to finish the backend.
+3. Benjamin merged the frontend and the backend together, and the system could work. He will help Yihan to finish the content about the lazy load and the unit of work.
+4. Prepare for the checklist and the readme file for part 2.
+Next meeting will be during workshop on Thurs(30/09)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
